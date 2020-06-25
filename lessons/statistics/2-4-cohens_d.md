@@ -15,8 +15,8 @@ I determined the difference in the mean between the two groups, then wrote my ow
 function for computing Cohen's d (by using basic pandas methods such as `.mean()`, `.var()`, `.count()`).
 <p></p>
 The resulting Cohen's d computed from birth weight data (.108) is much larger than the 
-Cohen's d computed from pregnancy length data (.029), meaning the significance of the difference
-is much more noteworthy in the birth weight data.
+Cohen's d computed from pregnancy length data (.029), meaning the difference
+is much more significant in the birth weight data.
 
 ## The Code
     import nsfg
